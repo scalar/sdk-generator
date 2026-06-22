@@ -3,93 +3,93 @@
 	<p>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/752d7dff-47a2-4b59-bd1a-27e55ca25ffb">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1e7da3bd-e7ee-43e0-bd72-fe6d9d8e635f">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/752d7dff-47a2-4b59-bd1a-27e55ca25ffb" alt="Typescript">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c4155841-27aa-459e-90d1-59489382f98e">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aebd3f85-21f4-4287-b050-e24a4a4f06f4">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/c4155841-27aa-459e-90d1-59489382f98e" alt="Typescript">
 			</picture>
 		</a>
         <a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6b4b56a5-ce1a-4342-a6bd-51d9e7360545">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0fc73093-8077-4ef2-ac80-892a03556cb7">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/6b4b56a5-ce1a-4342-a6bd-51d9e7360545" alt="Python">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b4a8a253-6d0f-4715-ab2f-4b30f86f5de3">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bca4365d-615b-42bb-9534-8c85be84d0fb">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/b4a8a253-6d0f-4715-ab2f-4b30f86f5de3" alt="Python">
 			</picture>
 		</a>
         <a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/77b60fce-3214-4d28-b9cd-bd427107332f">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c519edb9-ebf8-457e-bcd3-ddc574c41755">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/77b60fce-3214-4d28-b9cd-bd427107332f" alt="GO">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/47af7fa0-67d5-4f49-9995-695061bd9db5">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/30a382a5-f91d-4b04-8ff8-6f84d56d71f8">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/47af7fa0-67d5-4f49-9995-695061bd9db5" alt="GO">
 			</picture>
 		</a>
         <a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/310124f1-2883-433a-a337-0ad8e1ef1688">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c77be0b1-cc06-41ea-b2e3-bece020a9ced">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/310124f1-2883-433a-a337-0ad8e1ef1688" alt="CLI">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0ed4ddc6-e6e1-4e2c-ab0f-5f00753b9d86">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5a5f3ed7-0a65-40fe-99da-a3720b9677f1">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/0ed4ddc6-e6e1-4e2c-ab0f-5f00753b9d86" alt="CLI">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/03a95ab7-e84a-4356-a6a4-5491c22397b5">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d82a6a00-b928-4f06-a690-90e966bd77b4">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/03a95ab7-e84a-4356-a6a4-5491c22397b5" alt="Swift">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7c3a05bc-4ba2-4171-92c5-48204fd5ef32">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b8755c60-5ddf-4b28-bb67-e1b816054ca5">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/7c3a05bc-4ba2-4171-92c5-48204fd5ef32" alt="Swift">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ffe32fe7-2b61-431a-a6c6-f52677c3bd87">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/14f767a6-3629-4dde-bb36-02467226061b">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/ffe32fe7-2b61-431a-a6c6-f52677c3bd87" alt="Rust">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2e553e44-68f2-4aff-ac1a-773f7338990d">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/08435cb9-de50-4a16-9a24-b284f6322720">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/2e553e44-68f2-4aff-ac1a-773f7338990d" alt="Rust">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6080be01-a525-4760-b88a-aa500d6e0a14">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9bfc1bcf-8979-4cf6-a8d9-c5779813e6e4">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/6080be01-a525-4760-b88a-aa500d6e0a14" alt="Ruby">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/42b9791d-bba5-4f51-82f9-3c8bd56791d4">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f9e3cfaa-a071-431b-9aa6-b31298a114ea">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/42b9791d-bba5-4f51-82f9-3c8bd56791d4" alt="Ruby">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/88cc3322-f066-423e-b5b9-72e5fe5bfd9d">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/83c61c9b-a695-4577-8dd2-5f9f9b3c591a">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/88cc3322-f066-423e-b5b9-72e5fe5bfd9d" alt="PHP">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8abe0f31-76b4-4d4e-b384-f76a541fa752">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/73ffe40d-2fde-42d8-aef5-640cb14c64b1">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/8abe0f31-76b4-4d4e-b384-f76a541fa752" alt="PHP">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6cf9743a-d698-4f3f-936d-29a4cbc05333">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2a062ea3-d73f-4ff2-8734-6476710f55bc">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/6cf9743a-d698-4f3f-936d-29a4cbc05333" alt="Kotlin">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2433675c-9539-4afe-925b-70c90085d937">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/100acc58-8e46-4f58-864c-694d207f9b4f">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/2433675c-9539-4afe-925b-70c90085d937" alt="Kotlin">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8ff3a2e1-0eed-43d1-8972-4e5feef1cb9a">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8537b213-3d44-47d5-a358-c1023f0f8cac">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/8ff3a2e1-0eed-43d1-8972-4e5feef1cb9a" alt="Java">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/65876a9d-2e1b-472a-a3bd-1eb425bf7f55">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/64eef89e-6768-4ee2-805a-9c48221e46ce">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/65876a9d-2e1b-472a-a3bd-1eb425bf7f55" alt="Java">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/459097be-5fbd-4204-8dbc-e23e2613a469">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/95cc61d8-18fd-4dcd-8783-72a70abbbbe3">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/459097be-5fbd-4204-8dbc-e23e2613a469" alt="C#">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9c9fcd1a-4b8a-4b52-b48c-3b079226aea8">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dff90079-f372-4594-a12a-8754c7b53ecb">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/9c9fcd1a-4b8a-4b52-b48c-3b079226aea8" alt="C#">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1fc6d3ee-74bd-46bc-86e1-db6b3cde4581">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9d189c56-c7ba-49f1-86c3-555bbf62224b">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/1fc6d3ee-74bd-46bc-86e1-db6b3cde4581" alt="Dart">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/cafca180-101f-46d0-9302-4eaa1165cedc">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/16cd2f80-4035-452b-8e1b-1fa7d1631daa">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/cafca180-101f-46d0-9302-4eaa1165cedc" alt="Dart">
 			</picture>
 		</a>
 		<a href="https://cal.com/scalar" target="_blank">
 			<picture>
-				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9c96d70f-f43b-4a4d-9fae-f3be4cea2a7b">
-				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fcfd88ab-4d28-4a78-92df-193de32bd041">
-				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/9c96d70f-f43b-4a4d-9fae-f3be4cea2a7b" alt="C++">
+				<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9191dd3e-67ac-4db7-8f79-82072574526c">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dc64f8e5-eee8-498c-bcae-070346a64d34">
+				<img width="19.1976%" height="210" src="https://github.com/user-attachments/assets/9191dd3e-67ac-4db7-8f79-82072574526c" alt="C++">
 			</picture>
 		</a>
 	</p>
